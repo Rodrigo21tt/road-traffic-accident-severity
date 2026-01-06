@@ -1,4 +1,4 @@
-# road-traffic-accident-severity
+# Road-traffic-accident-severity
 # Instructions to Reproduce the Results
 
 This repository contains the code used to analyze road traffic accident severity using imbalanced and explainable machine learning techniques. All experiments were conducted in Python using a Jupyter Notebook environment.
